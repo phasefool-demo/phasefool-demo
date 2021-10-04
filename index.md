@@ -84,9 +84,9 @@ You will say that a woman has no need of such a caution there can be no peril in
 
 **Second Set:**
 
-at this the bundle opened suddenly and out popped phronsie 
+At this the bundle opened suddenly and out popped phronsie.
 -->  
-there's one and there's another the dudley and the flint
+There's one and there's another the dudley and the flint.
 
 <div>
 	<div style='text-align:center; display: inline-block;'>
@@ -129,9 +129,9 @@ there's one and there's another the dudley and the flint
 
 **Third Set:**
 
-i wish i hadn't cried so much said alice as she swam about trying to find her way out
+I wish i hadn't cried so much said alice as she swam about trying to find her way out
 -->  
-but the real significance and comfort of the words for our sins is lost upon them
+But the real significance and comfort of the words for our sins is lost upon them.
 
 <div>
 	<div style='text-align:center; display: inline-block;'>
