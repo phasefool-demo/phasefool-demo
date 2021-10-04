@@ -35,7 +35,7 @@ Here we display three sets of audio examples in the user study in our paper. In 
 *(1) All clean samples and targeted transcriptions are obtained from the LibriSpeech Dataset[1].*
 
 ### First Set:
-
+---
 **Origin:** It has no beauty whatsoever no specialty of picturesqueness and all its lines are cramped and poor.
 
 **Target:** You will say that a woman has no need of such a caution there can be no peril in it for her.
@@ -79,7 +79,7 @@ Here we display three sets of audio examples in the user study in our paper. In 
 </div>
 
 ### Second Set:
-
+---
 **Origin:** At this the bundle opened suddenly and out popped phronsie.
 
 **Target:** There's one and there's another the dudley and the flint.
@@ -124,7 +124,7 @@ Here we display three sets of audio examples in the user study in our paper. In 
 
 
 ### Third Set:
-
+---
 **Origin:** I wish i hadn't cried so much said alice as she swam about trying to find her way out
 
 **Target:** But the real significance and comfort of the words for our sins is lost upon them.
