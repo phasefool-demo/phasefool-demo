@@ -32,17 +32,13 @@ Here we display three sets of audio examples in the user study in our paper. In 
 
 
 *Note:*
-
 *(1) All clean samples and targeted transcriptions are obtained from the LibriSpeech Dataset[1].*
 
-*(2) --> means being transcribed to*
+### First Set:
 
+**Origin:** It has no beauty whatsoever no specialty of picturesqueness and all its lines are cramped and poor.
 
-### s**First Set:**
-
-It has no beauty whatsoever no specialty of picturesqueness and all its lines are cramped and poor.
--->  
-You will say that a woman has no need of such a caution there can be no peril in it for her.
+**Target:** You will say that a woman has no need of such a caution there can be no peril in it for her.
 
 <div>
 	<div style="text-align:center; display: inline-block;">
@@ -82,11 +78,11 @@ You will say that a woman has no need of such a caution there can be no peril in
 	</div>
 </div>
 
-### **Second Set:**
+### Second Set:
 
-At this the bundle opened suddenly and out popped phronsie.
--->  
-There's one and there's another the dudley and the flint.
+**Origin:** At this the bundle opened suddenly and out popped phronsie.
+
+**Target:** There's one and there's another the dudley and the flint.
 
 <div>
 	<div style='text-align:center; display: inline-block;'>
@@ -127,11 +123,11 @@ There's one and there's another the dudley and the flint.
 </div>
 
 
-### **Third Set:**
+### Third Set:
 
-I wish i hadn't cried so much said alice as she swam about trying to find her way out
--->  
-But the real significance and comfort of the words for our sins is lost upon them.
+**Origin:** I wish i hadn't cried so much said alice as she swam about trying to find her way out
+
+**Target:** But the real significance and comfort of the words for our sins is lost upon them.
 
 <div>
 	<div style='text-align:center; display: inline-block;'>
