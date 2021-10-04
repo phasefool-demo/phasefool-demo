@@ -38,7 +38,7 @@ Here we display three sets of audio examples in the user study in our paper. In 
 *(2) --> means being transcribed to*
 
 
-**First Set:**
+### s**First Set:**
 
 It has no beauty whatsoever no specialty of picturesqueness and all its lines are cramped and poor.
 -->  
@@ -82,7 +82,7 @@ You will say that a woman has no need of such a caution there can be no peril in
 	</div>
 </div>
 
-**Second Set:**
+### **Second Set:**
 
 At this the bundle opened suddenly and out popped phronsie.
 -->  
@@ -127,7 +127,7 @@ There's one and there's another the dudley and the flint.
 </div>
 
 
-**Third Set:**
+### **Third Set:**
 
 I wish i hadn't cried so much said alice as she swam about trying to find her way out
 -->  
