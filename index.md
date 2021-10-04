@@ -172,6 +172,7 @@ Here we display three sets of audio examples in the user study in our paper. In 
 
 ### Generation Speed
 ---
+
 | Method | Steps | Efficiency(s) |
 | :-----| :----: | :----: |
 | C&W's attack | 4000 | 211.87 $\pm$ 12.31 |
