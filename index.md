@@ -1,9 +1,21 @@
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
+
 <h1><center>PhaseFool: Phase-oriented Audio Adversarial Examples via Energy Dissipation</center></h1>
 
 <center><b>Anonymous Author(s)</b></center>
 
 ## Abstract
-Audio adversarial attacks design perturbations onto inputs that lead an automatic speech recognition (ASR) model to predict incorrect outputs. Current audio adversarial attacks optimize perturbations with different constraints (e.g. $l_p$ - norm for waveform or the principle of auditory masking for magnitude spectrogram) to achieve their imperceptibility. Since phase is not relevant for speech recognition, the existing audio adversarial attacks neglect the influence of phase spectrogram. In this work, we propose a novel phase-oriented algorithm named PhaseFool that can efficiently construct imperceptible audio adversarial examples with energy dissipation. Specifically, we leverage the phase spectrogram and the spectrogram consistency of short-time Fourier transform (STFT) to adversarially dissipate the energy that is crucial for ASR systems. Since the magnitude spectrogram plays a dominant role in human perception, the phase-oriented perturbations cause tiny auditory differences. Experimental results demonstrate that PhaseFool can inherently generate full-sentence imperceptible audio adversarial examples with 100\% targeted success rate within 500 steps on average (9.24x speed-up over current state-of-the-art imperceptible counterparts), which is verified through a human study. Most importantly, our PhaseFool is the first to exploit the phase-oriented energy dissipation in the audio adversarial examples rather than add perturbations on the audio waveform like most previous works.
+Audio adversarial attacks design perturbations onto inputs that lead an automatic speech recognition (ASR) model to predict incorrect outputs. Current audio adversarial attacks optimize perturbations with different constraints (e.g. $l_p$-norm for waveform or the principle of auditory masking for magnitude spectrogram) to achieve their imperceptibility. Since phase is not relevant for speech recognition, the existing audio adversarial attacks neglect the influence of phase spectrogram. In this work, we propose a novel phase-oriented algorithm named PhaseFool that can efficiently construct imperceptible audio adversarial examples with energy dissipation. Specifically, we leverage the phase spectrogram and the spectrogram consistency of short-time Fourier transform (STFT) to adversarially dissipate the energy that is crucial for ASR systems. Since the magnitude spectrogram plays a dominant role in human perception, the phase-oriented perturbations cause tiny auditory differences. Experimental results demonstrate that PhaseFool can inherently generate full-sentence imperceptible audio adversarial examples with 100\% targeted success rate within 500 steps on average (9.24x speed-up over current state-of-the-art imperceptible counterparts), which is verified through a human study. Most importantly, our PhaseFool is the first to exploit the phase-oriented energy dissipation in the audio adversarial examples rather than add perturbations on the audio waveform like most previous works.
 
 ## Generation Speed
 
@@ -21,11 +33,9 @@ Here we display three sets of audio examples in the user study in our paper. In 
 
 *Note:*
 
-*(1) All samples are in LibriSpeech Dataset[1].*
+*(1) All clean samples and targeted transcriptions are obtained from the LibriSpeech Dataset[1].*
 
 *(2) --> means being transcribed to*
-
-*(3) We contains other samples in this github repo.*
 
 
 **First Set:**
