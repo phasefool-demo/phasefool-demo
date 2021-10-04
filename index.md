@@ -175,10 +175,9 @@ Here we display three sets of audio examples in the user study in our paper. In 
 
 | Method | Steps | Efficiency(s) |
 | :-----| :----: | :----: |
-| C&W's attack | 4000 | 211.87 $\pm$ 12.31 |
-| IPC attack   | 3000 | 158.75 $\pm$ 10.99 |
-| Qin's attack | 5000 | 305.91 $\pm$ 8.02 |
 | PhaseFool    | 500  | 33.10 $\pm$ 3.27|
+| PhaseFool with $l_2$ loss  | 500  | 32.54 $\pm$ 3.50|
+| PhaseFool w/o constraint  | 212  | 17.80 $\pm$ 19.56|
 
 ### First Set:
 ---
