@@ -168,6 +168,55 @@ Here we display three sets of audio examples in the user study in our paper. In 
 </div>
 
 
+## Ablation Studies
+
+### Generation Speed
+---
+| Method | Steps | Efficiency(s) |
+| :-----| :----: | :----: |
+| C&W's attack | 4000 | 211.87 $\pm$ 12.31 |
+| IPC attack   | 3000 | 158.75 $\pm$ 10.99 |
+| Qin's attack | 5000 | 305.91 $\pm$ 8.02 |
+| PhaseFool    | 500  | 33.10 $\pm$ 3.27|
+
+### First Set:
+---
+**Origin:** It has no beauty whatsoever no specialty of picturesqueness and all its lines are cramped and poor.
+
+**Target:** You will say that a woman has no need of such a caution there can be no peril in it for her.
+
+<div>
+	<div style="text-align:center; display: inline-block;">
+    <audio controls>
+        <source src="cw/0_gt.wav" type="audio/mpeg">
+        Your browser does not support this audio format.
+    </audio>
+	<h4>clean</h4>
+	</div>
+	<div style='text-align:center; display: inline-block;'>
+    <audio controls>
+        <source src="phasefool/0.wav" type="audio/mpeg">
+        Your browser does not support this audio format.
+    </audio>
+	<h4>PhaseFool</h4>
+	</div>
+	<div style='text-align:center; display: inline-block;'>
+    <audio controls>
+        <source src="phasefool_noweight/0.wav" type="audio/mpeg">
+        Your browser does not support this audio format.
+    </audio>
+	<h4>PhaseFool with $l_2$ loss</h4>
+	</div>
+	<div style='text-align:center; display: inline-block;'>
+    <audio controls>
+        <source src="phasefool_noconstraint/0.wav" type="audio/mpeg">
+        Your browser does not support this audio format.
+    </audio>
+	<h4>PhaseFool w/o constraint</h4>
+	</div>
+</div>
+
+
 
 ## References
 [1] Vassil Panayotov, Guoguo Chen, Daniel Povey, and San-jeev Khudanpur,  “Librispeech:  an asr corpus based onpublic domain audio books,” in2015 IEEE internationalconference on acoustics, speech and signal processing(ICASSP). IEEE, 2015, pp. 5206–5210.
