@@ -209,7 +209,7 @@ Here we display three sets of audio examples in the user study in our paper. In 
 	</div>
 	<div style='text-align:center; display: inline-block;'>
     <audio controls>
-        <source src="phasefool_noconstraint/0.wav" type="audio/mpeg">
+        <source src="phasefool_noconstrain/0.wav" type="audio/mpeg">
         Your browser does not support this audio format.
     </audio>
 	<h4>PhaseFool w/o constraint</h4>
