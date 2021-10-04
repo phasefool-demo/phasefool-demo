@@ -21,11 +21,10 @@ Here we display three sets of audio examples in the user study in our paper. In 
 
 **First Set:**
 
-it has no beauty whatsoever no specialty of picturesqueness and all its lines are cramped and poor  
+It has no beauty whatsoever no specialty of picturesqueness and all its lines are cramped and poor.
 -->  
-you will say that a woman has no need of such a caution there can be no peril in it for her
+You will say that a woman has no need of such a caution there can be no peril in it for her.
 
-<code>
 <div>
 	<div style="text-align:center; display: inline-block;">
     <audio controls>
@@ -33,9 +32,6 @@ you will say that a woman has no need of such a caution there can be no peril in
         Your browser does not support this audio format.
     </audio>
 	<h4>clean</h4>
-	</div>
-	<div style="text-align:center; display: inline-block;">
-        <div style='height:50px; width:100px;'></div>
 	</div>
 	<div style='text-align:center; display: inline-block;'>
     <audio controls>
@@ -66,8 +62,6 @@ you will say that a woman has no need of such a caution there can be no peril in
 	<h4>PhaseFool</h4>
 	</div>
 </div>
-</code>
-
 
 **Second Set:**
 
@@ -82,9 +76,6 @@ there's one and there's another the dudley and the flint
         Your browser does not support this audio format.
     </audio>
 	<h4>clean</h4>
-	</div>
-	<div style='text-align:center; display: inline-block;'>
-        <div style='height:50px; width:100px;'></div>
 	</div>
 	<div style='text-align:center; display: inline-block;'>
     <audio controls>
@@ -130,9 +121,6 @@ but the real significance and comfort of the words for our sins is lost upon the
         Your browser does not support this audio format.
     </audio>
 	<h4>clean</h4>
-	</div>
-	<div style='text-align:center; display: inline-block;'>
-        <div style='height:50px; width:100px;'></div>
 	</div>
 	<div style='text-align:center; display: inline-block;'>
     <audio controls>
